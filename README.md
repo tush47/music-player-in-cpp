@@ -1,4 +1,16 @@
 # music-player-in-cpp
+
+![image](https://github.com/tush47/music-player-in-cpp/assets/110597823/1bc741aa-7b0c-4016-8aa0-2b899660d997)
+
+
+
+
+
+
+
+
+
+
 this is a code for music player system coded in c++
 The given code is a program for managing a playlist of songs. It allows users to perform various operations such as adding songs, deleting songs, searching for songs, playing songs, displaying the playlist, etc. The playlist is implemented using a doubly linked list.
 
